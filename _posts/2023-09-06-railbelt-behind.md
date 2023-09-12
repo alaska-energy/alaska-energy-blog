@@ -7,14 +7,14 @@ categories: railbelt wind solar
 
 *By Alan Mitchell*
 
-The cost of utility-scale solar has dropped 76% since 2010[^fn_solar_cost] and wind
-costs have dropped 45%.[^fn_wind_cost]  The improved cost-effectiveness of these technologies
+The cost of utility-scale [solar has dropped 76% since 2010](https://emp.lbl.gov/sites/default/files/utility_scale_solar_2022_edition_slides.pdf){:target="_blank"} and [wind
+costs have dropped 45%](https://emp.lbl.gov/sites/default/files/2023_lbwmr_final.pdf){:target="_blank"}. The improved cost-effectiveness of these technologies
 has spurred a rapid increase in the electricity generated from these technologies in
 the US.  But, how have we done in the Alaskan Railbelt as far as adoption of
 wind and solar?
 
 The graph below shows the percent of utility-scale electric energy generated
-from solar and wind both for the US as a whole and for the Railbelt.[^fn_wind_solar]
+from solar and wind both [for the US](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=0,1&fuel=vtvo&geo=vvvvvvvvvvvvo&linechart=ELEC.GEN.ALL-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0){:target="_blank"} as a whole and for the Railbelt.
 
 ![Wind/Solar Fractions in US and Alaska](/assets/images/behind/wind-solar-frac.png)
 
@@ -35,9 +35,9 @@ to see how wind and solar deployment might progress in both the Railbelt and the
 
 ![Wind/Solar Forecasts for US and Alaska](/assets/images/behind/wind-solar-forecast.png)
 
-Starting with the US figures, the EIA projects wind/solar fractions of 16% and 18% for
-2023 and 2024 respectively.[^fn_eia_fcst] The National Renewable Energy Laboratory estimates
-that fraction will increase to 40 - 62% by 2030.[^fn_nrel_fcst] (The graph above targets 47%
+Starting with the US figures, the [EIA projects wind/solar fractions](https://www.eia.gov/outlooks/steo/report/BTL/2023/02-genmix/article.php){:target="_blank"} of 16% and 18% for
+2023 and 2024 respectively. The National Renewable Energy Laboratory estimates
+that fraction will [increase to 40 - 62% by 2030](https://www.nrel.gov/docs/fy23osti/85242.pdf){:target="_blank"}. (The graph above targets 47%
 for 2030).  
 
 As for the Railbelt line on the graph, the projection assumes that most *all* of the
@@ -47,7 +47,7 @@ Solar project, as described in the [Black & Veatch Chugach Gas Supply Option and
 Market Assessment](https://drive.google.com/file/d/1TExipvMixwMAuBWqIHUhedfNNGLWGsKf/view){:target="_blank"}.
 Also included is the Golden Valley Electric Shovel Creek Wind project, assumed here to be
 built at the 60 MW capacity level.  Matanuska Electric's recently completed 6 MW Houston
-Solar project is included, as well as a 20 MW solar project being considered by Homer
+Solar project is included, as well as a 30 MW solar project being considered by Homer
 Electric.  All of these Railbelt wind/solar projects are being proposed by Independent
 Power Producers, hoping to sell power from projects to the above-mentioned utilities or
 sell the projects outright to the utilities.
@@ -63,15 +63,3 @@ Finally, the table below shows the energy contributions of each of the Railbelt 
 discussed above.
 
 ![Wind/Solar Projects](/assets/images/behind/wind-solar-table.png)
-
-&nbsp;
-
----
-
-&nbsp;
-
-[^fn_solar_cost]: [Utility-Scale Solar Briefing 2022, Lawrence Berkeley National Laboratory](https://emp.lbl.gov/sites/default/files/utility_scale_solar_2022_edition_slides.pdf){:target="_blank"}, page 18.
-[^fn_wind_cost]: [Land-Based Wind Market Report 2023, Lawrence Berkeley National Laboratory](https://emp.lbl.gov/sites/default/files/2023_lbwmr_final.pdf){:target="_blank"}, page 44.
-[^fn_wind_solar]: US data from the [EIA Electricity Data Browser](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=0,1&fuel=vtvo&geo=vvvvvvvvvvvvo&linechart=ELEC.GEN.ALL-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&pin=&rse=0&maptype=0){:target="_blank"}. Alaska data from [EIA Form 923](https://www.eia.gov/electricity/data/eia923/){:target="_blank"}.
-[^fn_eia_fcst]: [EIA Short-term Energy Outlook](https://www.eia.gov/outlooks/steo/report/BTL/2023/02-genmix/article.php){:target="_blank"}.
-[^fn_nrel_fcst]: [Evaluating Impacts of the Inflation Reduction Act and Bipartisan Infrastructure Law on the U.S. Power System, NREL](https://www.nrel.gov/docs/fy23osti/85242.pdf){:target="_blank"}, page v.
